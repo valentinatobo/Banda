@@ -8,20 +8,20 @@ La idea principal del programa es gestionar a los musicos e instrumentos de una 
 
 SOLID es un acrónimo mnemónico introducido por Robert C. Martin a comienzos de la década del 2000 que representa cinco principios básicos de la programación orientada a objetos y el diseño.
 
-![Principios Solid](link)
+![Principios Solid](https://github.com/valentinatobo/Banda/blob/master/img/solid.jpg)
 
 ## Aplicación de los Principios SOLID al Proyecto Banda Aleatoria
----------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 Este proyecto se dividira en dos fases, la primera sera la parte del diseño la cual estara encargada del diseño del diagrama de clases en el lenguaje unimicado de modelaje(uml) y el poder implementar en este diseño minimos tres principios SOLID, en su segunda parte ira dirigido a la implementación. 
 
 ## Diagrama de clases 
----------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 ![Diagrama de clases](https://github.com/valentinatobo/Banda/blob/master/img/uml.JPG)
 
 ## ¿Qué principios usaremos en el proyecto?
-----------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 ### Principio de Inversión de Dependencias
 **1. Definición:**
