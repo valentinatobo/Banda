@@ -18,7 +18,7 @@ Este proyecto se dividira en dos fases, la primera sera la parte del diseño la 
 ## Diagrama de clases 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-![Diagrama de clases](link)
+![Diagrama de clases](https://github.com/valentinatobo/Banda/blob/master/img/uml.JPG)
 
 ## ¿Qué principios usaremos en el proyecto?
 ----------------------------------------------------------------------------------------------------------------------------------------
